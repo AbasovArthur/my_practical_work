@@ -2,3 +2,5 @@
 2. Создать два компонента Users и UsersContainer
 3. Импортировать UsersContainer в App
 4. В UsersContainer для каждого объекта из массива users создать компонент User (имя, возраст и должность)
+
+
